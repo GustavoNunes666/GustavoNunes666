@@ -2,3 +2,7 @@
 👋 Olá! Meu nome é Gustavo Nunes e sou estudante de Ciências da Computação no UniBH, atualmente no 4º período (desde 2023). Apaixonado por desenvolvimento, venho me especializando em front-end e trabalhando com tecnologias como JavaScript, React, Flutter e Dart para criar soluções tanto para web quanto para aplicativos móveis. Além de desenvolvimento, também aplico metodologias ágeis no meu dia a dia, especialmente com práticas de Scrum, para garantir entregas de qualidade e colaboração eficiente em equipe.
 
 🚀 Estou em constante aprendizado e sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para a comunidade.
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/gustavo-nunes-4b994326b)
+
